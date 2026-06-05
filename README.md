@@ -12,4 +12,6 @@
   
 </div>
 
+![Snake eating contributions](https://raw.githubusercontent.com/jphdbr/jphdbr/output/github-contribution-grid-snake.svg)
+
 
