@@ -3,7 +3,7 @@
 
 📖 atualmente sou estudante de desenvolvimentos de sistemas na etec uirapuru.
 
-💡 atualmente estudando php, java e android
+💡 atualmente estudando php, java e android.
 
 <div style="display: inline_block"><br>
  
